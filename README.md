@@ -49,7 +49,7 @@ Hands-on experience in building Android apps, full-stack projects, and solving 4
 - Real-time inventory management Android app using Firebase.
 - Reduced transaction latency by 30% and enhanced data security by 20%.
 
-### [Restaurant Application](https://restaurant-application-8vtfjza76-yogeshjindals-projects.vercel.app/)
+### [Restaurant Application](https://restaurant-application-six.vercel.app/)
 ![FullStack](https://img.shields.io/badge/Full--Stack-Node.js%2FReact-brightgreen)
 - Full-stack web app with secure REST APIs, JWT authentication, and role-based dashboards.
 
